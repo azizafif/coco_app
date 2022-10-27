@@ -1,16 +1,9 @@
 # coco_app
 
-A new Flutter project.
+This is a mobile version COCO (Common Object in Context website).
+The project still under development.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can just download the project from the repo and run it.
+You need to have a flutter version 3.3.x or above.
+IOS target is 14 or above.
+Android API level is =< 27 .
